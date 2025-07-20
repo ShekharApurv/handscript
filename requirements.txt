@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python        # For image processing and computer vision
+Pillow               # For image manipulation   
+torch                # For deep learning models (optional, if using PyTorch)
+# tensorflow           # For deep learning models (optional, if using TensorFlow)
+easyocr              # For Optical Character Recognition (OCR)
+# tesseract            # Alternative OCR engine (requires system install)
+scipy                # Additional scientific computing tools
